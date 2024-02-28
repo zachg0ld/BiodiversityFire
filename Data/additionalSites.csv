@@ -1,0 +1,129 @@
+﻿Site,Plot,FireFreq,DataType,IndivObs,Richness,SE,n,SD,Variance,CV,Duration,Notes
+Tanguro,control,0,WoodyRichness,N,11.69,1.36,3,2.355589098,4.711178197,0.201504628,7,"Data from Figure 1 (August measurements, open plots, nutrient controls) of Massad et al. (2012)"
+Tanguro,B3yr,0.33,NA,N,NA,NA,NA,NA,NA,NA,7,3 subplots (30m x 40m) in unburned and annual burned plots (500m x 1000m)
+Tanguro,B1yr,1,WoodyRichness,N,4.69,0.47,3,0.81406388,1.628127759,0.173574388,7,
+Solar Village,UR,0,HerbaceousRichness,N,14.8,missing,5,NA,NA,NA,23,Data compiled from Table 7 of Woinarski et al. (2004)
+Solar Village,US,0,HerbaceousRichness,N,8.8,missing,5,NA,NA,NA,23,Species richness measured in eight 2m x 2m subplots per quadrat (50m x 50m) with five quadrats in each treatment. Species were tallied across the subplots in each quadrat
+Solar Village,BR,1,HerbaceousRichness,N,26.2,missing,5,NA,NA,NA,23,Variation is reported only as ANOVA F-statistic
+Solar Village,BS,1,HerbaceousRichness,N,14.8,missing,5,NA,NA,NA,23,
+Solar Village,UR,0,GrassRichness,N,3,missing,5,NA,NA,NA,23,
+Solar Village,US,0,GrassRichness,N,1.6,missing,5,NA,NA,NA,23,
+Solar Village,BR,1,GrassRichness,N,8.8,missing,5,NA,NA,NA,23,
+Solar Village,BS,1,GrassRichness,N,5.2,missing,5,NA,NA,NA,23,
+Solar Village,UR,0,WoodyRichness,N,19.2,missing,5,NA,NA,NA,23,
+Solar Village,US,0,WoodyRichness,N,20.8,missing,5,NA,NA,NA,23,
+Solar Village,BR,1,WoodyRichness,N,13,missing,5,NA,NA,NA,23,
+Solar Village,BS,1,WoodyRichness,N,14.2,missing,5,NA,NA,NA,23,
+Peachester North,Biennial,0.5,HerbaceousRichness,N,9.1,0.793725393,3,1.374772708,1.89,0.151073924,40,Data compiled from Supplementary Information of Lewis et al. (2012)
+Peachester North,Quadrennial,0.25,HerbaceousRichness,N,7,0.761577311,3,1.319090596,1.74,0.188441514,40,"HerbaceousRichness data were calculated as sum of grasses, forbs, graminoids, and ferns"
+Peachester North,Unburnt,0,HerbaceousRichness,N,6,1.140175425,3,1.974841766,3.9,0.329140294,40,Sampled three 6m x 1m subplots in 0.08-ha treatment plots
+Peachester North,Biennial,0.5,GrassRichness,N,3.7,0.3,3,0.519615242,0.27,0.140436552,40,
+Peachester North,Quadrennial,0.25,GrassRichness,N,3,0,3,0,0,0,40,
+Peachester North,Unburnt,0,GrassRichness,N,2.7,0.7,3,1.212435565,1.47,0.449050209,40,
+Peachester South,Biennial,0.5,HerbaceousRichness,N,6.6,1.236931688,3,2.142428529,4.59,0.324610383,40,Data compiled from Supplementary Information of Lewis et al. (2012)
+Peachester South,Quadrennial,0.25,HerbaceousRichness,N,5.4,0.6,3,1.039230485,1.08,0.19245009,40,"HerbaceousRichness data were calculated as sum of grasses, forbs, graminoids, and ferns"
+Peachester South,Unburnt,0,HerbaceousRichness,N,4.6,0.6,3,1.039230485,1.08,0.225919671,40,Sampled three 6m x 1m subplots in six 0.08-ha plots (three subplots x three treatments)
+Peachester South,Biennial,0.5,GrassRichness,N,3,0,3,0,0,0,40,
+Peachester South,Quadrennial,0.25,GrassRichness,N,2.3,0.3,3,0.519615242,0.27,0.225919671,40,
+Peachester South,Unburnt,0,GrassRichness,N,1.3,0.3,3,0.519615242,0.27,0.399704033,40,
+Nylsvley,Annual,1,HerbaceousRichness,Y,11,NA,NA,NA,NA,NA,12,Data compiled from Table 1 of Yeaton et al. (1988)
+Nylsvley,Intermediate,0,HerbaceousRichness,Y,5,NA,NA,NA,NA,NA,5,Ten 5m long line transects were used but richness data were combined to the plot-level 
+Nylsvley,Protected,0,HerbaceousRichness,Y,4,NA,NA,NA,NA,NA,12,
+Nylsvley,Annual,1,GrassRichness,Y,11,NA,NA,NA,NA,NA,12,
+Nylsvley,Intermediate,0,GrassRichness,Y,5,NA,NA,NA,NA,NA,5,
+Nylsvley,Protected,0,GrassRichness,Y,4,NA,NA,NA,NA,NA,12,
+Marondera,Unburnt,0,HerbaceousRichness,Y,33,NA,NA,NA,NA,NA,54,"Data compiled from Table 1 of Masocha et al. (2010), aggregated to the treatment level"
+Marondera,Quadrennial,0.25,HerbaceousRichness,Y,39,NA,NA,NA,NA,NA,54,HerbaceousRichness data were calculated as sum of graminoids and forbs
+Marondera,Triennial,0.33,HerbaceousRichness,Y,40,NA,NA,NA,NA,NA,54,Two diagonal belt transects (50 m in length and 5 m in width) in each experimental plot. Ten 5m x 5m quadrats placed along each transect. Herbaceous species were recorded from 1 x 1-m quadrates at the center of each 5 xm plot
+Marondera,Biennial,0.5,HerbaceousRichness,Y,42,NA,NA,NA,NA,NA,54,
+Marondera,Annual,1,HerbaceousRichness,Y,44,NA,NA,NA,NA,NA,54,
+Laba,Burnt,1,HerbaceousRichness,N,17,1,4,2,4,0.117647059,10,Data compiled from Table 2 of Savadogo et al. (2008)
+Laba,Unburnt,0,HerbaceousRichness,N,16,1,4,2,4,0.125,10,20m transect with a 6mm pin projected from above at every 0.20m. Richness data were computed for each replicate (4) in each treatment
+Laba,Burnt,1,GrassRichness,N,10,1.077032961,4,2.154065923,4.64,0.215406592,10,Data for annuals and perennials are combined
+Laba,Unburnt,0,GrassRichness,N,9,1.077032961,4,2.154065923,4.64,0.239340658,10,
+Bauple,UB,0,GrassRichness,Y,4,NA,NA,NA,NA,NA,27,"Data from Figure 4.4 of Virkki (2014). Note: data are combined with other sites (that did not have prescribed fire), so data extracted only include the unburn, every 3 years, and annual"
+Bauple,UB,0,GrassRichness,Y,6,NA,NA,NA,NA,NA,27,Each data point is from a 50 x 10m subplot
+Bauple,UB,0,GrassRichness,Y,7,NA,NA,NA,NA,NA,27,
+Bauple,Annual,1,GrassRichness,Y,4,NA,NA,NA,NA,NA,27,
+Bauple,Annual,1,GrassRichness,Y,3,NA,NA,NA,NA,NA,27,
+Bauple,Annual,1,GrassRichness,Y,2,NA,NA,NA,NA,NA,27,
+Bauple,3yr,0.33,GrassRichness,Y,4,NA,NA,NA,NA,NA,27,
+Bauple,3yr,0.33,GrassRichness,Y,6,NA,NA,NA,NA,NA,27,
+Bauple,3yr,0.33,GrassRichness,Y,7,NA,NA,NA,NA,NA,27,
+Cedar Creek,1,0.5,HerbaceousRichness,Y,50,NA,NA,NA,NA,NA,31,Data compiled from https://www.cedarcreek.umn.edu/research/data/dataset?herbe133 
+Cedar Creek,3,0.8,HerbaceousRichness,Y,38,NA,NA,NA,NA,NA,31,
+Cedar Creek,4,0.8,HerbaceousRichness,Y,37,NA,NA,NA,NA,NA,31,
+Cedar Creek,5,0.5,HerbaceousRichness,Y,40,NA,NA,NA,NA,NA,31,
+Cedar Creek,6,0.667,HerbaceousRichness,Y,55,NA,NA,NA,NA,NA,31,
+Cedar Creek,7,0.333,HerbaceousRichness,Y,32,NA,NA,NA,NA,NA,31,
+Cedar Creek,8,0.333,HerbaceousRichness,Y,26,NA,NA,NA,NA,NA,31,
+Cedar Creek,9,0,HerbaceousRichness,Y,25,NA,NA,NA,NA,NA,31,
+Cedar Creek,10,0,HerbaceousRichness,Y,23,NA,NA,NA,NA,NA,31,
+Cedar Creek,11,0.1,HerbaceousRichness,Y,35,NA,NA,NA,NA,NA,31,
+Cedar Creek,13,0.1,HerbaceousRichness,Y,20,NA,NA,NA,NA,NA,31,
+Cedar Creek,15,0,HerbaceousRichness,Y,31,NA,NA,NA,NA,NA,31,
+Cedar Creek,16,0.5,HerbaceousRichness,Y,50,NA,NA,NA,NA,NA,31,
+Cedar Creek,17,0.9,HerbaceousRichness,Y,44,NA,NA,NA,NA,NA,31,
+Cedar Creek,18,0,HerbaceousRichness,Y,20,NA,NA,NA,NA,NA,31,
+Cedar Creek,19,0.9,HerbaceousRichness,Y,43,NA,NA,NA,NA,NA,31,
+Cedar Creek,20,0,HerbaceousRichness,Y,19,NA,NA,NA,NA,NA,31,
+Cedar Creek,21,0.5,HerbaceousRichness,Y,51,NA,NA,NA,NA,NA,31,
+Cedar Creek,22,0.5,HerbaceousRichness,Y,32,NA,NA,NA,NA,NA,31,
+Cedar Creek,24,0.8,HerbaceousRichness,Y,38,NA,NA,NA,NA,NA,31,
+Cedar Creek,28,0.333,HerbaceousRichness,Y,54,NA,NA,NA,NA,NA,31,
+Cedar Creek,901,0.4,HerbaceousRichness,Y,33,NA,NA,NA,NA,NA,31,
+Cedar Creek,902,0.4,HerbaceousRichness,Y,41,NA,NA,NA,NA,NA,31,
+Cedar Creek,903,0.125,HerbaceousRichness,Y,44,NA,NA,NA,NA,NA,31,
+Cedar Creek,904,0.125,HerbaceousRichness,Y,53,NA,NA,NA,NA,NA,31,
+Cedar Creek,905,0,HerbaceousRichness,Y,55,NA,NA,NA,NA,NA,31,
+Cedar Creek,1,0.5,GrassRichness,Y,10,NA,NA,NA,NA,NA,31,
+Cedar Creek,3,0.8,GrassRichness,Y,9,NA,NA,NA,NA,NA,31,
+Cedar Creek,4,0.8,GrassRichness,Y,8,NA,NA,NA,NA,NA,31,
+Cedar Creek,5,0.5,GrassRichness,Y,10,NA,NA,NA,NA,NA,31,
+Cedar Creek,6,0.667,GrassRichness,Y,12,NA,NA,NA,NA,NA,31,
+Cedar Creek,7,0.333,GrassRichness,Y,8,NA,NA,NA,NA,NA,31,
+Cedar Creek,8,0.333,GrassRichness,Y,5,NA,NA,NA,NA,NA,31,
+Cedar Creek,9,0,GrassRichness,Y,1,NA,NA,NA,NA,NA,31,
+Cedar Creek,10,0,GrassRichness,Y,3,NA,NA,NA,NA,NA,31,
+Cedar Creek,11,0.1,GrassRichness,Y,6,NA,NA,NA,NA,NA,31,
+Cedar Creek,13,0.1,GrassRichness,Y,1,NA,NA,NA,NA,NA,31,
+Cedar Creek,15,0,GrassRichness,Y,2,NA,NA,NA,NA,NA,31,
+Cedar Creek,16,0.5,GrassRichness,Y,9,NA,NA,NA,NA,NA,31,
+Cedar Creek,17,0.9,GrassRichness,Y,11,NA,NA,NA,NA,NA,31,
+Cedar Creek,18,0,GrassRichness,Y,1,NA,NA,NA,NA,NA,31,
+Cedar Creek,19,0.9,GrassRichness,Y,11,NA,NA,NA,NA,NA,31,
+Cedar Creek,20,0,GrassRichness,Y,1,NA,NA,NA,NA,NA,31,
+Cedar Creek,21,0.5,GrassRichness,Y,9,NA,NA,NA,NA,NA,31,
+Cedar Creek,22,0.5,GrassRichness,Y,8,NA,NA,NA,NA,NA,31,
+Cedar Creek,24,0.8,GrassRichness,Y,12,NA,NA,NA,NA,NA,31,
+Cedar Creek,28,0.333,GrassRichness,Y,9,NA,NA,NA,NA,NA,31,
+Cedar Creek,901,0.4,GrassRichness,Y,4,NA,NA,NA,NA,NA,31,
+Cedar Creek,902,0.4,GrassRichness,Y,8,NA,NA,NA,NA,NA,31,
+Cedar Creek,903,0.125,GrassRichness,Y,9,NA,NA,NA,NA,NA,31,
+Cedar Creek,904,0.125,GrassRichness,Y,7,NA,NA,NA,NA,NA,31,
+Cedar Creek,905,0,GrassRichness,Y,7,NA,NA,NA,NA,NA,31,
+Munmarlary (open forest),Late Annual,1,GrassRichness,Y,7,NA,NA,NA,NA,NA,22,"Data from Figures 7, 8, 11 of Russell-Smith et al. (2003). Species richness data were aggregated and reported at the treatment level."
+Munmarlary (open forest),Early Annual,1,GrassRichness,Y,8,NA,NA,NA,NA,NA,22,Samplng from 20 m x 1m quadrats for herbaceous
+Munmarlary (open forest),Biennial,0.5,GrassRichness,Y,5,NA,NA,NA,NA,NA,22,
+Munmarlary (open forest),Unburnt,0,GrassRichness,Y,3,NA,NA,NA,NA,NA,22,
+Munmarlary (open forest),Late Annual,1,WoodyRichness,Y,27,NA,NA,NA,NA,NA,22,"Sampling from 50 x 10m for overstory, 50 x 5m for midstory, and 50 x 2m for understory woody species"
+Munmarlary (open forest),Early Annual,1,WoodyRichness,Y,25,NA,NA,NA,NA,NA,22,
+Munmarlary (open forest),Biennial,0.5,WoodyRichness,Y,29,NA,NA,NA,NA,NA,22,
+Munmarlary (open forest),Unburnt,0,WoodyRichness,Y,33,NA,NA,NA,NA,NA,22,
+Munmarlary (woodland),Late Annual,1,GrassRichness,Y,12,NA,NA,NA,NA,NA,24,"Data from Figures 7, 8, 11 of Russell-Smith et al. (2003)"
+Munmarlary (woodland),Early Annual,1,GrassRichness,Y,16,NA,NA,NA,NA,NA,24,
+Munmarlary (woodland),Biennial,0.5,GrassRichness,Y,12,NA,NA,NA,NA,NA,24,
+Munmarlary (woodland),Unburnt,0,GrassRichness,Y,14,NA,NA,NA,NA,NA,24,
+Munmarlary (woodland),Late Annual,1,WoodyRichness,Y,30,NA,NA,NA,NA,NA,24,
+Munmarlary (woodland),Early Annual,1,WoodyRichness,Y,33,NA,NA,NA,NA,NA,24,
+Munmarlary (woodland),Biennial,0.5,WoodyRichness,Y,30,NA,NA,NA,NA,NA,24,
+Munmarlary (woodland),Unburnt,0,WoodyRichness,Y,40,NA,NA,NA,NA,NA,24,
+Ukulinga,A1_1,0,WoodyRichness,Y,19,NA,NA,NA,NA,NA,70,Data from Kevin Kirkman
+Ukulinga,A3_1,1,WoodyRichness,Y,1,NA,NA,NA,NA,NA,70,
+Ukulinga,A8_1,0.33,WoodyRichness,Y,1,NA,NA,NA,NA,NA,70,
+Ukulinga,A1_2,0,WoodyRichness,Y,15,NA,NA,NA,NA,NA,70,
+Ukulinga,A3_2,1,WoodyRichness,Y,0,NA,NA,NA,NA,NA,70,
+Ukulinga,A8_2,0.33,WoodyRichness,Y,0,NA,NA,NA,NA,NA,70,
+Ukulinga,A1_3,0,WoodyRichness,Y,16,NA,NA,NA,NA,NA,70,
+Ukulinga,A3_3,1,WoodyRichness,Y,1,NA,NA,NA,NA,NA,70,
+Ukulinga,A8_3,0.33,WoodyRichness,Y,1,NA,NA,NA,NA,NA,70,
